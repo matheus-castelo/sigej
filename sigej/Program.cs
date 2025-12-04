@@ -1,11 +1,11 @@
-﻿namespace sigej;
-
-static class Program
+﻿namespace sigej
 {
-    private const string ConnectionString = "Host=localhost;Username=sigej_admin;Password=admin123;Database=sigej_db";
-
-    static void Main(string[] args)
+    static class Program
     {
-        Console.WriteLine("--- Teste de Conexão SIGEJ ---");
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("rodou !");
+        }
     }
 }
