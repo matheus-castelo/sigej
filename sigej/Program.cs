@@ -1,4 +1,6 @@
-﻿namespace sigej
+﻿using System;
+
+namespace sigej
 {
     static class Program
     {

@@ -1,3 +1,5 @@
+using System;
+
 namespace sigej.db.models.LocalizacaoEEquipes
 {
     public class EquipeMembro

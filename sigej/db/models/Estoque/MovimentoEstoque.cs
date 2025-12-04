@@ -1,3 +1,5 @@
+using System;
+
 namespace sigej.db.models.Estoque
 {
     public class MovimentoEstoque
